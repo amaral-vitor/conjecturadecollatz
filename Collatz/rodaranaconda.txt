@@ -1,0 +1,1 @@
+python -m streamlit run "C:\Users\vitor.amaral\Desktop\Collatz\conjectura_de_collatz_app.py"
